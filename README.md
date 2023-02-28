@@ -26,3 +26,6 @@ npm i
 ```
 ionic serve
 ```
+
+
+Cambios para ejemplo
