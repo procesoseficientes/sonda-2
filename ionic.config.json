@@ -1,0 +1,7 @@
+{
+  "name": "sonda2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
